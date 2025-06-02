@@ -1,7 +1,7 @@
 from datamodel import OrderDepth, TradingState, Order
 from typing import List
 
-# prosperity2bt algorithm4.py 1 
+# prosperity2bt algorithm3.py 1 
 
 class Trader:
 
